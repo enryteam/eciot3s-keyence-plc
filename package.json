@@ -8,6 +8,8 @@
   },
   "keywords": [
       "node-red",
+      "eciot",
+      "eciot3s-keyence-plc",
       "node-red-contrib-keyence-plc"
   ],
   "repository": {
