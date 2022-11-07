@@ -1,6 +1,6 @@
 {
   "name": "eciot3s-keyence-plc",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "尊创科技",
   "main": "plc.js",
   "scripts": {
